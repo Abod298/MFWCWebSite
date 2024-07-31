@@ -640,6 +640,9 @@ header
     background: #f7f7f7 !important;
     color: #191a20 !important;
   }
+  .header-area .main-nav .nav li select{
+    color: #191a20 !important;
+  }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
     color: #8d99af!important;
