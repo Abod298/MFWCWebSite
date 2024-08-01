@@ -130,6 +130,8 @@
       aboutForth:"Our goal is simple yet profound: to exceed our clients' expectations and deliver exceptional value.'",
       aboutFifth:'Join us as we continue to innovate and lead, setting new standards for quality and performance in the industry.',
       aboutSixth:'Metal Fabrication Workshop Company , Jeddah - KSA',
+      productTitle:'Quality and Excellence in Every Product',
+      productTitle:'Discover Our Extensive Range of High-Quality Products',
 
       
     },
@@ -143,7 +145,7 @@
       metal: 'تشكيل المعادن',
       steel: 'الهياكل الفولاذية',
       tanks: 'الخزانات',
-      copyright: 'حقوق الطبع والنشر © 2024 شركة ورشة الصناعات المعدنية. جميع الحقوق محفوظة.',
+      copyright: 'حقوق الطبع والنشر © 2024 شركة التشكيل المعدني للحدادة. جميع الحقوق محفوظة.',
       mail: 'البريد الإلكتروني',
       phone: 'الهاتف',
       adress: 'العنوان',
@@ -152,7 +154,7 @@
       face: 'فيسبوك',
       insta: 'إنستغرام',
       social: ' تابعنا على وسائل التواصل الاجتماعي',
-      logoAndSolgan: 'شركة ورشة الصناعات المعدنية ... قوة الحديد، دقة التنفيذ، وعظمة المشاريع',
+      logoAndSolgan: 'شركة التشكيل المعدني للحدادة ... قوة الحديد، دقة التنفيذ، وعظمة المشاريع',
       check: 'إليك نبذة عنهم !',
       clients: 'عملاؤنا',
       tanksDesc: 'نصنع خزانات قوية , تدوم طويلاً , بجودة عالية لتخزين السوائل والوقود بأشكال وأحجام مختلفة حسب الطلب.',
@@ -185,6 +187,8 @@
       aboutForth:"هدفنا بسيط لكنه عميق: تجاوز توقعات عملائنا وتقديم قيمة استثنائية.",
       aboutFifth:'انضم إلينا بينما نواصل الابتكار والريادة، محددين معايير جديدة للجودة والأداء في الصناعة.',
       aboutSixth:'التشكيل المعدني للحدادة , جدة - المملكة العربية السعودية',
+      productSubTitle:'الجودة والتميز في كل منتج',
+      productTitle:'اكتشف مجموعتنا الواسعة من المنتجات عالية الجودة',
     }
   };
 
