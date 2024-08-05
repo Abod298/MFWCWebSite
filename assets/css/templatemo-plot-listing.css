@@ -969,7 +969,7 @@ Best Clients
 */
 
 .best-clients{
-margin: auto;
+  
 }
 .best-clients .container {
   align-items: center;
@@ -980,16 +980,28 @@ margin: auto;
   margin-bottom: 80px;
   
 }
-.best-clients .container .client ul{
+.best-clients .container .client{
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Optional: Center items horizontally */
+  max-width: 100%; /* Ensure it doesn't exceed container width */
+}
+.best-clients .container .client ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* Optional: Center items horizontally */
 }
 .best-clients .container .client ul li{
-  margin: 50px;
-  text-align: center;
+  margin: 32px; /* Adjust margin as needed */
+  width: 10%;
 }
 .best-clients .container ul li img{
-  border-radius: 100%;
-  margin-bottom:10px ;
+  max-width: 100%;
+  height: auto;
+  border-radius:50% ;
 }
 
 /*
@@ -1659,10 +1671,6 @@ responsive
   }
   .about-post .icon {
     transform: translateX(-22px);
-  }
-  .best-clients .container .client ul{
-    flex-direction: column-reverse;
-    margin: 50px 0;
   }
   .header-area .main-nav .nav li select{
     height: 40px;
